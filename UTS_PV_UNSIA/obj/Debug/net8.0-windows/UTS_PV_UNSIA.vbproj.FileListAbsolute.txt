@@ -1,0 +1,17 @@
+C:\Users\Admin Stand By\source\repos\UTS_PV_UNSIA\bin\Debug\net8.0-windows\UTS_PV_UNSIA.exe
+C:\Users\Admin Stand By\source\repos\UTS_PV_UNSIA\bin\Debug\net8.0-windows\UTS_PV_UNSIA.deps.json
+C:\Users\Admin Stand By\source\repos\UTS_PV_UNSIA\bin\Debug\net8.0-windows\UTS_PV_UNSIA.runtimeconfig.json
+C:\Users\Admin Stand By\source\repos\UTS_PV_UNSIA\bin\Debug\net8.0-windows\UTS_PV_UNSIA.dll
+C:\Users\Admin Stand By\source\repos\UTS_PV_UNSIA\bin\Debug\net8.0-windows\UTS_PV_UNSIA.pdb
+C:\Users\Admin Stand By\source\repos\UTS_PV_UNSIA\obj\Debug\net8.0-windows\UTS_PV_UNSIA.Form1.resources
+C:\Users\Admin Stand By\source\repos\UTS_PV_UNSIA\obj\Debug\net8.0-windows\UTS_PV_UNSIA.Form2.resources
+C:\Users\Admin Stand By\source\repos\UTS_PV_UNSIA\obj\Debug\net8.0-windows\UTS_PV_UNSIA.vbproj.GenerateResource.cache
+C:\Users\Admin Stand By\source\repos\UTS_PV_UNSIA\obj\Debug\net8.0-windows\UTS_PV_UNSIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin Stand By\source\repos\UTS_PV_UNSIA\obj\Debug\net8.0-windows\UTS_PV_UNSIA.AssemblyInfoInputs.cache
+C:\Users\Admin Stand By\source\repos\UTS_PV_UNSIA\obj\Debug\net8.0-windows\UTS_PV_UNSIA.AssemblyInfo.vb
+C:\Users\Admin Stand By\source\repos\UTS_PV_UNSIA\obj\Debug\net8.0-windows\UTS_PV_UNSIA.vbproj.CoreCompileInputs.cache
+C:\Users\Admin Stand By\source\repos\UTS_PV_UNSIA\obj\Debug\net8.0-windows\UTS_PV_UNSIA.dll
+C:\Users\Admin Stand By\source\repos\UTS_PV_UNSIA\obj\Debug\net8.0-windows\refint\UTS_PV_UNSIA.dll
+C:\Users\Admin Stand By\source\repos\UTS_PV_UNSIA\obj\Debug\net8.0-windows\UTS_PV_UNSIA.pdb
+C:\Users\Admin Stand By\source\repos\UTS_PV_UNSIA\obj\Debug\net8.0-windows\UTS_PV_UNSIA.genruntimeconfig.cache
+C:\Users\Admin Stand By\source\repos\UTS_PV_UNSIA\obj\Debug\net8.0-windows\ref\UTS_PV_UNSIA.dll
